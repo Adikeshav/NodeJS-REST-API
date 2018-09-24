@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-restful-api",
+  "version": "1.0.0",
+  "description": "NodeJS Restful API for an uptime monitoring application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "REST"
+  ],
+  "author": "Adikeshav S",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.4.1"
+  }
+}
